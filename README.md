@@ -9,8 +9,10 @@
 
 ```
 
-예를들어 슬픈 표정을 하고 있을때는 이렇게 슬픈 표정의 이미지를 씌워줍니다.
-![1234](https://github.com/rkskwhdgh123/facial-expression-learning/assets/103232943/cdc78016-f196-4052-80e3-948fa3404fc9)
+예를들어 슬픈 표정을 하고 있을때는 이렇게 슬픈 표정의 이미지를 씌워줍니다.  
+
+![1234](https://github.com/rkskwhdgh123/facial-expression-learning/assets/103232943/e181f358-2594-4e4d-8a0f-4b974e648747)
+
 
 
 ```
